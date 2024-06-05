@@ -47,6 +47,3 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I’m passionate about blending different technologies to create innovative solutions!
 
----
-
-Feel free to reach out if you have any questions or if you’d like to collaborate on a project. Happy coding!
