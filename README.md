@@ -1,3 +1,5 @@
+Certainly! Here's an updated version with distinct and interactive charts:
+
 ## Hello 👋
 
 # About Me 🍫🍭🍨
@@ -43,6 +45,6 @@ I am Muhammad Burhan Arshad from Pakistan, working as a Full Stack Developer for
 
 ![GitHub Commits](https://github-readme-stats.vercel.app/api?username=muhammadburhan123&show_icons=true&count_private=true&include_all_commits=true)
 
-![GitHub Pushes](https://github-readme-stats.vercel.app/api?username=muhammadburhan123&show_icons=true&count_private=true&include_all_commits=true)
+![GitHub Repo Views](https://github-readme-activity-graph.cyclic.app/graph?username=muhammadburhan123&theme=react-dark)
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=muhammadburhan123&show_icons=true&count_private=true&include_all_commits=true)
+![GitHub Followers](https://github-readme-stats.vercel.app/api?username=muhammadburhan123&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide=stars&custom_title=Followers)
