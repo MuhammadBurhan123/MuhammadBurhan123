@@ -1,37 +1,21 @@
-# Hi there 👋
+## Hello 👋
 
-# Welcome to my GitHub profile! Here's a bit about me:
+# About Me 🍫🍭🍨
 
-- 🔭 I’m currently working on:
-  - Java CRM (University Project)
-  - Office Laravel VueJS Project
-  - Personal projects based on React, Vue, React Native, TypeScript, Python (Flask), and PHP (Laravel)
-  
-- 🌱 I’m currently learning:
-  - Google Project Management (Coursera)
-  - Full Stack Development from IBM (Coursera)
-  - Next.js, Python (Flask and Django)
-  
-- 👯 I’m looking to collaborate on:
-  - University projects
-  - Helping my classmates
-  
-- 💬 Ask me about:
+I am Muhammad Burhan Arshad from Pakistan, working as a Full Stack Developer for the past 2 years. I am also pursuing my bachelor's degree in Computer Science from SZABIST Karachi.
+
+- **Ask me about 😁:**
   - Laravel ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   - Vue.js ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D)
   - React.js ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-- 📫 How to reach me:
-  - Website: [burhan.is-great.net](http://burhan.is-great.net)
-  - Email: [burhantheschoolboy@gmail.com](mailto:burhantheschoolboy@gmail.com)
-  - WhatsApp: +923437649017
-  - LinkedIn: [Muhammad Burhan Arshad](https://www.linkedin.com/in/muhammadburhanarshad)
-  
-- 😄 Pronouns: He/Him
+- **How to reach me 🤔:**
+  - **Website:** [burhan.is-great.net](http://burhan.is-great.net)
+  - **Email:** [burhantheschoolboy@gmail.com](mailto:burhantheschoolboy@gmail.com)
+  - **WhatsApp:** [+923437649017](https://wa.me/+923437649017)
+  - **LinkedIn:** [Muhammad Burhan Arshad](https://www.linkedin.com/in/muhammadburhanarshad)
 
-- ⚡ Fun fact: I’m passionate about blending different technologies to create innovative solutions!
-
-## Technologies and Tools
+## Technologies and Tools 😌
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -39,7 +23,26 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Project Management](https://img.shields.io/badge/project_management-%23008000.svg?style=for-the-badge&logo=project-management&logoColor=white)
+
+## GitHub Stats 📊
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username)](https://github.com/your-github-username)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=github)
+
+![GitHub Commits](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&include_all_commits=true)
+
+![GitHub Pushes](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&include_all_commits=true)
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&include_all_commits=true)
