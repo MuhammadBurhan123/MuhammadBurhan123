@@ -1,4 +1,4 @@
-Let's correct the GitHub contributions chart to ensure it displays properly. We'll use an alternative service to generate the contributions graph.
+Sure, let's update the cards to use a dark theme and keep them consistent:
 
 ## Hello 👋
 
@@ -35,16 +35,16 @@ I am Muhammad Burhan Arshad from Pakistan, working as a Full Stack Developer for
 
 ## GitHub Stats 📊
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadburhan123)](https://github.com/muhammadburhan123)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadburhan123&theme=dark&background=000000)](https://github.com/muhammadburhan123)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadburhan123&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadburhan123&show_icons=true&theme=dark&background=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadburhan123&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadburhan123&layout=compact&theme=dark&background=000000)
 
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=muhammadburhan123&theme=github)
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=muhammadburhan123&theme=react-dark&bg_color=000000)
 
-![GitHub Commits](https://github-readme-stats.vercel.app/api?username=muhammadburhan123&show_icons=true&count_private=true&include_all_commits=true)
+![GitHub Commits](https://github-readme-stats.vercel.app/api?username=muhammadburhan123&show_icons=true&count_private=true&include_all_commits=true&theme=dark&background=000000)
 
-![GitHub Repo Views](https://komarev.com/ghpvc/?username=muhammadburhan123)
+![GitHub Repo Views](https://komarev.com/ghpvc/?username=muhammadburhan123&color=blue)
 
 ![GitHub Followers](https://img.shields.io/github/followers/muhammadburhan123?label=Followers&style=social)
