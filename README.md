@@ -1,4 +1,4 @@
-Certainly! Here's an updated version with distinct and interactive charts:
+Let's refine the setup to ensure all the charts are distinct and properly displayed:
 
 ## Hello 👋
 
@@ -41,10 +41,10 @@ I am Muhammad Burhan Arshad from Pakistan, working as a Full Stack Developer for
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadburhan123&layout=compact)
 
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=muhammadburhan123&theme=github)
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=muhammadburhan123&theme=github)
 
 ![GitHub Commits](https://github-readme-stats.vercel.app/api?username=muhammadburhan123&show_icons=true&count_private=true&include_all_commits=true)
 
-![GitHub Repo Views](https://github-readme-activity-graph.cyclic.app/graph?username=muhammadburhan123&theme=react-dark)
+![GitHub Repo Views](https://komarev.com/ghpvc/?username=muhammadburhan123)
 
-![GitHub Followers](https://github-readme-stats.vercel.app/api?username=muhammadburhan123&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide=stars&custom_title=Followers)
+![GitHub Followers](https://img.shields.io/github/followers/muhammadburhan123?label=Followers&style=social)
