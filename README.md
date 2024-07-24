@@ -1,4 +1,4 @@
-Sure, let's update the cards to use a dark theme and keep them consistent:
+Let's correct the repetition and ensure each chart is unique:
 
 ## Hello 👋
 
