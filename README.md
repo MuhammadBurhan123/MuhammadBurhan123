@@ -1,4 +1,4 @@
-Let's refine the setup to ensure all the charts are distinct and properly displayed:
+Let's correct the GitHub contributions chart to ensure it displays properly. We'll use an alternative service to generate the contributions graph.
 
 ## Hello 👋
 
