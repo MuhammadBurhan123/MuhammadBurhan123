@@ -33,16 +33,16 @@ I am Muhammad Burhan Arshad from Pakistan, working as a Full Stack Developer for
 
 ## GitHub Stats 📊
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username)](https://github.com/your-github-username)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadburhan123)](https://github.com/muhammadburhan123)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadburhan123&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadburhan123&layout=compact)
 
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=github)
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=muhammadburhan123&theme=github)
 
-![GitHub Commits](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&include_all_commits=true)
+![GitHub Commits](https://github-readme-stats.vercel.app/api?username=muhammadburhan123&show_icons=true&count_private=true&include_all_commits=true)
 
-![GitHub Pushes](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&include_all_commits=true)
+![GitHub Pushes](https://github-readme-stats.vercel.app/api?username=muhammadburhan123&show_icons=true&count_private=true&include_all_commits=true)
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&include_all_commits=true)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=muhammadburhan123&show_icons=true&count_private=true&include_all_commits=true)
