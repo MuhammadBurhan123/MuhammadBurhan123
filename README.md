@@ -1,5 +1,3 @@
-Let's correct the repetition and ensure each chart is unique:
-
 ## Hello 👋
 
 # About Me 🍫🍭🍨
