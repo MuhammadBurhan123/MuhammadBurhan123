@@ -39,9 +39,9 @@ I am Muhammad Burhan Arshad from Pakistan, working as a Full Stack Developer for
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadburhan123&layout=compact&theme=dark&background=000000)
 
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=muhammadburhan123&theme=react-dark&bg_color=000000)
+<!--- ![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=muhammadburhan123&theme=react-dark&bg_color=000000) --->
 
-![GitHub Commits](https://github-readme-stats.vercel.app/api?username=muhammadburhan123&show_icons=true&count_private=true&include_all_commits=true&theme=dark&background=000000)
+<!--- ![GitHub Commits](https://github-readme-stats.vercel.app/api?username=muhammadburhan123&show_icons=true&count_private=true&include_all_commits=true&theme=dark&background=000000) --->
 
 ![GitHub Repo Views](https://komarev.com/ghpvc/?username=muhammadburhan123&color=blue)
 
