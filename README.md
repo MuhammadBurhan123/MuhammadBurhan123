@@ -14,9 +14,14 @@
 
 ## Here are some of my statistics 🚀
 
-<a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBurhan123&theme=radical" height="250px" width="33%" /></a>
-<a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadBurhan123&theme=radical" height="250px" width="33%" /></a>
-<a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBurhan123&langs_count=10&layout=compact&theme=radical&hide_border=true" height="250px" width="33%" /></a>
+<a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages By Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBurhan123&theme=radical" height="250px" width="33%" /></a>
+<a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages By Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadBurhan123&theme=radical" height="250px" width="33%" /></a>
+<a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBurhan123&langs_count=10&layout=compact&theme=radical&hide_border=true" height="250px" width="33%" /></a>
+
+
+<a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="https://github-readme-stats.vercel.app/api?username=MuhammadBurhan123&theme=radical&show_icons=true&hide_border=true" width="50%" /></a>
+<a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadBurhan123&theme=radical&hide_border=true" width="50%" /></a>
+
 
 ![MuhammadBurhan123's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadBurhan123&theme=radical&show_icons=true&hide_border=true)
 <a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadBurhan123&theme=radical&hide_border=true" height="200px" /></a>
