@@ -9,10 +9,11 @@
 <br>
 
 <div align="center" style="display:flex;">
- <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=MuhammadBurhan123&data=followers,repositories,stars,commits&theme=radical" />
+ <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=MuhammadBurhan123&data=followers,repositories,commits&theme=radical" />
 </div>
 
 ## Here are some of my statistics 🚀
+
 ![](https://github-readme-activity-graph.vercel.app/graph?username=muhammadburhan123&bg_color=101414&color=ababab&line=ff9e9e&point=f71d5e&area=true&hide_border=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBurhan123&theme=radical)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadBurhan123&theme=radical)
