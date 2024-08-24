@@ -19,8 +19,8 @@
 <a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBurhan123&langs_count=10&layout=compact&theme=radical&hide_border=true" height="250px" width="33%" /></a>
 
 
-<a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="https://github-readme-stats.vercel.app/api?username=MuhammadBurhan123&theme=radical&show_icons=true&hide_border=true" width="50%" /></a>
-<a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadBurhan123&theme=radical&hide_border=true" width="50%" /></a>
+<a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="https://github-readme-stats.vercel.app/api?username=MuhammadBurhan123&theme=radical&show_icons=true&hide_border=true" width="49.5%" /></a>
+<a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadBurhan123&theme=radical&hide_border=true" width="49.5%" /></a>
 
 
 ![MuhammadBurhan123's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadBurhan123&theme=radical&show_icons=true&hide_border=true)
