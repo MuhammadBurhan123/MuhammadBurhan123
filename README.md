@@ -14,10 +14,6 @@
 
 ## Here are some of my statistics 🚀
 
-![MuhammadBurhan123](https://github-readme-activity-graph.vercel.app/graph?username=muhammadburhan123&bg_color=101414&color=ababab&line=ff9e9e&point=f71d5e&area=true&hide_border=true)
-
-![MuhammadBurhan123](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBurhan123&theme=radical)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadBurhan123&theme=radical)
-
 <a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBurhan123&theme=radical" height="250px" width="33%" /></a>
 <a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadBurhan123&theme=radical" height="250px" width="33%" /></a>
 <a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBurhan123&langs_count=10&layout=compact&theme=radical&hide_border=true" height="250px" width="33%" /></a>
