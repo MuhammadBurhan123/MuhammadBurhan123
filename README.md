@@ -47,7 +47,7 @@ Reach Me                  | [![Twitter Badge](https://img.shields.io/badge/-Muha
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhammadburhanarshad)
 - [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/+923437649017)
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/arsha._.parvizi?utm_medium=copy_link)
+<!-- - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/arsha._.parvizi?utm_medium=copy_link)-->
 - [![Personal Website](https://img.shields.io/badge/-Personal%20Website-882D17?style=flat&logo=Google-Chrome&logoColor=white)](https://burhan.is-great.net)
 
 
