@@ -14,25 +14,24 @@
 
 ## Here are some of my statistics 🚀
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=muhammadburhan123&bg_color=101414&color=ababab&line=ff9e9e&point=f71d5e&area=true&hide_border=true)
+![MuhammadBurhan123](https://github-readme-activity-graph.vercel.app/graph?username=muhammadburhan123&bg_color=101414&color=ababab&line=ff9e9e&point=f71d5e&area=true&hide_border=true)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBurhan123&theme=radical)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadBurhan123&theme=radical)
-<a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBurhan123&langs_count=10&layout=compact&theme=radical&hide_border=true" height="250px" /></a>
+![MuhammadBurhan123](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBurhan123&theme=radical)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadBurhan123&theme=radical)
+
+<a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBurhan123&theme=radical" height="250px" width="33%" /></a>
+<a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadBurhan123&theme=radical" height="250px" width="33%" /></a>
+<a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBurhan123&langs_count=10&layout=compact&theme=radical&hide_border=true" height="250px" width="33%" /></a>
 
 ![MuhammadBurhan123's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadBurhan123&theme=radical&show_icons=true&hide_border=true)
 <a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadBurhan123&theme=radical&hide_border=true" height="200px" /></a>
 <a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadBurhan123&theme=radical" height="250px"/></a>
 
 
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ma5kipi6n6xbki6c4rotjvlfli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ma5kipi6n6xbki6c4rotjvlfli&redirect=true)
-
 <br>
 
 ## About Me ;) 💫
 
-Hello, I'm Amir Mohammad. Strong research professional with a Bachelor's degree focused in Computer Science Engineering from Qazvin Azad University. Experienced Researcher with a demonstrated history of working in the research industry. Skilled in Robotics , Artificial intelligence , Machine Learning and Computer vision. 💻👾
+Hello, I'm Muhammad Burhan Arshad, a Full Stack Developer with 2 years of experience, currently pursuing a Bachelor's degree in Computer Science from SZABIST Karachi. I am an experienced researcher with a demonstrated history of working in the research industry. I am skilled in web design, web development, cloud software, Android development, artificial intelligence, machine learning, and computer vision.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
