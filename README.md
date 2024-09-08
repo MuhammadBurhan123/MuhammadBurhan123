@@ -12,6 +12,8 @@
  <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=MuhammadBurhan123&data=followers,repositories,commits&theme=radical" />
 </div>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ## Here are some of my statistics 🚀
 
 <a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages By Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBurhan123&theme=radical" height="250px" width="33%" /></a>
