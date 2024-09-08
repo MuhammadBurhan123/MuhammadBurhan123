@@ -1,12 +1,12 @@
 
-<h1 align="center">
+<!--<h1 align="center">
   <a href="https://github.com/MuhammadBurhan123"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"></a>
-</h1>
+</h1>-->
 
-<p align="center">
+<!--<p align="center">
   <img src="https://user-images.githubusercontent.com/89135083/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg" alt="just for fun :D">
 </p>
-<br>
+<br>-->
 
 <div align="center" style="display:flex;">
  <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=MuhammadBurhan123&data=followers,repositories,commits&theme=radical" />
