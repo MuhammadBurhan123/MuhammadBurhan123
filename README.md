@@ -12,7 +12,7 @@
  <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=MuhammadBurhan123&data=followers,repositories,commits&theme=radical" />
 </div>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://burhan.is-great.net"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Here are some of my statistics 🚀
 
@@ -24,13 +24,13 @@
 <a href="https://github.com/MuhammadBurhan123"><img alt="MuhammadBurhan123's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadBurhan123&theme=radical" height="250px" width="100%" /></a>
 <br>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://burhan.is-great.net"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## About Me ;) 💫
 
 Hello, I'm Muhammad Burhan Arshad, a full-stack developer with 2 years of experience. I am currently pursuing a bachelor's degree in computer science from SZABIST Karachi. I am an experienced researcher with a demonstrated history of working in the research industry. I am skilled in web design, web development, cloud software, Android development, artificial intelligence, machine learning, and computer vision.
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://burhan.is-great.net"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!-- sample badge demo https://simpleicons.org/ -->
 ## Profile
@@ -42,7 +42,7 @@ Database                 | [![SQL Badge](https://img.shields.io/badge/-SQL-CC292
 CI / CD                   | [![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white)](https://github.com/MuhammadBurhan123/MuhammadBurhan123)
 Reach Me                  | [![Twitter Badge](https://img.shields.io/badge/-MuhammadBurhan123-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/) [![Gmail Badge](https://img.shields.io/badge/-MuhammadBurhan123-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:official.parvizi@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-MuhammadBurhan123-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/MuhammadBurhan123/) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/yourPhoneNumber) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/yourUsername) 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://burhan.is-great.net"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contact Me 🚀
 
@@ -50,4 +50,4 @@ Reach Me                  | [![Twitter Badge](https://img.shields.io/badge/-Muha
 - [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/+923437649017)
 - [![Personal Website](https://img.shields.io/badge/-Personal%20Website-882D17?style=flat&logo=Google-Chrome&logoColor=white)](https://burhan.is-great.net)
 
-<!--<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>-->
+<!--<a href="https://burhan.is-great.net"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>-->
